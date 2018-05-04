@@ -144,6 +144,11 @@ controller.middleware.send.use(function(bot, message, next) {
 
 });
 ```
+# Industrialization
+
+This section will be dedicated to the industrialization of of a Botkit : the creation of CI/CD Pipeline to automatically deploy the project to Heroku (or any other Server) on each commit. 
+
+
 
 # Full Documentation
 
